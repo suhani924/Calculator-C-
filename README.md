@@ -1,1 +1,2 @@
-![image alt] (https://github.com/suhani924/Calculator-C-/blob/main/Calculator/S1.png?raw=true)
+
+C:\Users\admin\OneDrive\Desktop\Memory Calculate\ss.png
